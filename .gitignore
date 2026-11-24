@@ -1,0 +1,12 @@
+*.asv
+
+# External toolboxes (see README)
+YALMIP-develop/
+ReachTool-main/
+
+# LaTeX build files
+Report/*
+!Report/main.tex
+!Report/main.pdf
+!Report/references.bib
+!Report/Images/
